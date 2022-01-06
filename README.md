@@ -66,7 +66,7 @@
   #
   ## Скриншот подов в графическом интерфейса
   #
-  ![Image alt](https://github.com/MrinskiyAndrey/Lab2/blob/8095b75d23dece5f5b0110932930dc39f6888fa3/Lab2-2.png)
+  ![Image alt](https://github.com/MrinskiyAndrey/Lab2/blob/21342125f5de45c4775d2f3eeef2f0d64c1d130e/Lab2%20-2.png)
   #
   ![Video alt](https://github.com/MrinskiyAndrey/Lab2/blob/b080217b05e15cd27e25cbae21954fc19fb6d626/Lab2_Video.mkv)
   
