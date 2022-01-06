@@ -60,12 +60,15 @@
   ##
   
  ## Скриншот подов в консоли
+ #
   ![Image alt](https://github.com/MrinskiyAndrey/Lab2/blob/458dbbbb2ef4c2369133919944bc336bf55dfff2/Lab2%20-1.png)
   
   #
-  ##Скриншот подов в графическом интерфейса
+  ## Скриншот подов в графическом интерфейса
+  #
   ![Image alt](https://github.com/MrinskiyAndrey/Lab2/blob/8095b75d23dece5f5b0110932930dc39f6888fa3/Lab2-2.png)
-  
+  #
+  ![Video alt](Lab2_Video.mkv)
   
   
             
