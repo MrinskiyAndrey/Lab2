@@ -57,7 +57,7 @@
           selector:
             app: my-app
             
-  ##
+ 
   
  ## Скриншот подов в консоли
  #
@@ -69,7 +69,7 @@
   ![Image alt](https://github.com/MrinskiyAndrey/Lab2/blob/21342125f5de45c4775d2f3eeef2f0d64c1d130e/Lab2%20-2.png)
   #
 
-  
+  ## 30 секундное видео с обзором созданого кластера
 
 https://user-images.githubusercontent.com/97047164/148369347-a97fe0ff-d933-4f1e-a2ae-6f1fa17194e8.mp4
 
