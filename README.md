@@ -68,7 +68,7 @@
   #
   ![Image alt](https://github.com/MrinskiyAndrey/Lab2/blob/21342125f5de45c4775d2f3eeef2f0d64c1d130e/Lab2%20-2.png)
   #
-  ![Demo CountPages alpha](https://github.com/MrinskiyAndrey/Lab2/blob/eaa70acc4d9cf84454ccd7c227c49fad91e05ff0/Video_Lab2.mp4)
+  ![Video_Lab2](https://github.com/MrinskiyAndrey/Lab2/blob/eaa70acc4d9cf84454ccd7c227c49fad91e05ff0/Video_Lab2.mp4)
   
   
             
