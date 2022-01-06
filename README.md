@@ -59,7 +59,7 @@
             
   ##
   Скриншот подов в консоли
-  Lab2 -1.png
+  https://github.com/MrinskiyAndrey/Lab2/blob/458dbbbb2ef4c2369133919944bc336bf55dfff2/Lab2%20-1.png
   
   
   Скриншот подов в графическом интерфейса
